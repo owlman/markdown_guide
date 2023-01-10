@@ -1,6 +1,6 @@
 # 《Markdown写作指南》项目
 
-![《Markdown写作指南》](src/img/0-0.jpg)
+![《Markdown写作指南》封面图](src/img/0-0.jpg)
 
 ## 项目简介
 
