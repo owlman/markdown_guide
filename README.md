@@ -1,5 +1,7 @@
 # 《Markdown写作指南》项目
 
+![《Markdown写作指南》](src/img/0-0.jpg)
+
 ## 项目简介
 
 ### 为什么要写这本书
