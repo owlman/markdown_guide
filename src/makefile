@@ -9,7 +9,7 @@ all: $(docx)
 	ls -l ../docx
 
 ../docx/%.docx:%.md
-	pandoc -f markdown+tex_math_dollars -t docx $< -o $@  --pdf-engine=xelatex
+	pandoc -f markdown+tex_math_dollars -t docx $< -o $@  --reference-doc=./styles/styles.docx --pdf-engine=xelatex
 
 clean:
 	rm -rf $(docx)
