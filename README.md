@@ -1,6 +1,6 @@
-# 《Markdown写作指南》项目简介
+# 《Markdown 写作指南》项目简介
 
-![《Markdown写作指南》封面图](src/img/0-0.jpg)
+![《Markdown 写作指南》封面图](src/img/0-0.jpg)
 
 ## 为何而写
 
