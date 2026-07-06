@@ -1,0 +1,81 @@
+{
+    "title": "《网上书籍销售系统的设计》",
+    "description": "一篇用Markdown撰写的毕业论文",
+    "author": "凌杰",
+    
+    "language": "zh-hans",
+
+    "links": {
+        "sidebar": {
+            "Owlman的个人网站": "http://owlman.org/"
+        }
+     },
+
+     "plugins": [
+        "github",
+        "splitter",
+        "-sharing",
+        "sharing-plus",
+        "-highlight",
+        "prism",
+        "katex",
+        "mermaid",
+        "theme-comscore",
+        "tbfed-pagefooter",
+        "sitemap"
+    ],
+    
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 12
+        },
+
+        "tbfed-pagefooter": {
+            "copyright":"&copy 凌杰",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "weibo","qq","qzone","google","douban"
+            ]
+        },
+        
+        "github": {
+            "url": "https://github.com/owlman"
+        },
+        "theme-default": {
+           "showLevel": false
+        },
+        
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        },
+        
+        "sitemap" : {
+            "hostname": "http://owlman.org/"
+        }        
+    }
+}
